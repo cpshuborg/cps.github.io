@@ -64,7 +64,7 @@ a:active {
  * 
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "metropolis-semibold", sans-serif;
+  font-family: Calibri, "metropolis-semibold", sans-serif;
   color: #000000;
   font-style: normal;
   font-weight: normal;
@@ -2826,6 +2826,7 @@ html.cl-loaded .home-content__main {
   font-size: 3rem;
   line-height: 1.7;
   display: block;
+  color: #00a0d0;
 }
 
 .contact-address {
