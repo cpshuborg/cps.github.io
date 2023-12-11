@@ -790,6 +790,7 @@ input::-moz-focus-inner {
   color: #f22613;
   margin-top: 0;
   margin-bottom: 2.1rem;
+ font-weight: 700;
 }
 .subhead::before {
   content: "/ ";
