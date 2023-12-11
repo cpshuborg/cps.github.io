@@ -19,7 +19,7 @@ html, body {
 
 body {
   background: #111111;
-  font-family: "metropolis-regular", sans-serif;
+  font-family: 'Open Sans', "metropolis-regular", sans-serif;
   font-size: 1.7rem;
   font-style: normal;
   font-weight: normal;
@@ -64,7 +64,7 @@ a:active {
  * 
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: Calibri, "metropolis-semibold", sans-serif;
+  font-family: 'Open Sans', Calibri, "metropolis-semibold", sans-serif;
   color: #000000;
   font-style: normal;
   font-weight: normal;
