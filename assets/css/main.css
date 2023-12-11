@@ -2520,6 +2520,10 @@ html.cl-loaded .home-content__main {
   margin-bottom: 4.8rem;
 }
 
+.address {
+  color: #00a0d0 !important;
+}
+
 .contact-email {
   display: inline-block;
   font-family: "metropolis-light", sans-serif;
