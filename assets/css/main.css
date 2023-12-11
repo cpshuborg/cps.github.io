@@ -168,6 +168,7 @@ p.lead {
   color: #f22613 !important;
   font-weight: 900;
   padding-right: 6px;
+  display: block;
 }
 
 em, i, strong, b {
