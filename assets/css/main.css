@@ -166,6 +166,7 @@ p.lead {
 
 .pipe {
   color: #f22613 !important;
+  font-weight: 900;
 }
 
 em, i, strong, b {
