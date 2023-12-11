@@ -1853,9 +1853,6 @@ html.cl-loaded .home-content__main {
     width: 5.5rem;
     top: 1.8rem;
   }
-  .home-content br {
-    display: none;
-  }
 
   .home-content__main {
     max-width: 850px;
